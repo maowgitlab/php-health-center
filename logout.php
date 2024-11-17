@@ -4,5 +4,5 @@
 	unset($_SESSION['username']);
 	session_unset();
 	session_destroy();
-	header('location:t_dokter.php');
+	header('location:index.php');
 ?>

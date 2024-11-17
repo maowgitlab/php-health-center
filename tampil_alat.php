@@ -1,7 +1,7 @@
 <?php
 	session_start();
 	if(empty($_SESSION['username'])){
-		echo"<script>alert('Anda Tidak Login Sebagai Admin');window.location='t_dokter.php';</script>";
+		echo"<script>alert('Anda Tidak Login Sebagai Admin');window.location='index.php';</script>";
 	}
 ?>
 <style>

@@ -9,7 +9,7 @@
 			<div class="navigasi">
 			<div class="content">
             <ul>
-		<li><a href="t_dokter.php">Dokter</a></li>
+		<li><a href="index.php">Dokter</a></li>
 		<li><a href="t_penyakit.php">Penyakit</a></li>
 		<li><a href="t_obat.php">Obat</a></li>
 		<li><a href="t_alat.php">Alat</a></li>
