@@ -1,0 +1,37 @@
+.wrap{
+	
+	background-color: maroon; 
+	width: 1000px;
+	margin: 10px auto;
+}
+
+.wrap .header{
+    text-align: center;
+	padding: 2px 10px;
+}
+
+.badan{
+	height: 450px;
+}
+
+.wrap .badan .sidebar{
+	background-color: orange;
+	float: right;	
+	width: 25%;
+	height: 200%;
+}
+
+.wrap .badan .content{
+	background-color: aqua;
+	float: left;
+	height: 200%;
+	width: 75%;	
+}
+
+.wrap .footer{
+	width: 50px;
+	text-align: center;
+} 
+#gambar{
+	width: 500px; height: 100px; 
+}

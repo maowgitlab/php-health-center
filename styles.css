@@ -1,0 +1,17 @@
+.log input[type=password],input[type=text]{
+	width:30%;
+	padding:10px 20px;
+	border:1px solid #ccc;
+	border-radius:4px;
+	margin:2px 0;
+}
+.log input[type=submit]{
+	width:8%;
+	padding:12px 20px;
+	border:1px solid #ccc;
+	border-radius:4px;
+	margin:2px 0;
+}
+body{
+	background-image: url(logo2.png);
+}
